@@ -10,6 +10,6 @@ int main(int argc, char* argv[])
     cout << "Your name is: " << user_name << endl;
 
     //Some problems now at branch dev
-
+    //I changed to ssh connect.
     return 0;
 }
